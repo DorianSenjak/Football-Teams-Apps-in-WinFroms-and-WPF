@@ -1,0 +1,36 @@
+C:\Users\admin\Desktop\OOP projekt\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\admin\Desktop\OOP projekt\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\OOP projekt\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\OOP projekt\Utilities\obj\Debug\net6.0\ref\Utilities.dll
+C:\Users\admin\Desktop\adgsad\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\admin\Desktop\adgsad\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\adgsad\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\adgsad\Utilities\obj\Debug\net6.0\ref\Utilities.dll
+C:\Users\admin\Desktop\cooking\Utilities\bin\Debug\net6.0\Utilities.deps.json
+C:\Users\admin\Desktop\cooking\Utilities\bin\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\cooking\Utilities\bin\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.dll
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\Utilities.pdb
+C:\Users\admin\Desktop\cooking\Utilities\obj\Debug\net6.0\ref\Utilities.dll

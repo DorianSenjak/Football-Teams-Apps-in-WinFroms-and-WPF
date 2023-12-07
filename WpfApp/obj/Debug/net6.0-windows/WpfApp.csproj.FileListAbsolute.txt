@@ -1,0 +1,134 @@
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\CountryView.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\PlayerControl.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\CountryView.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\PlayerControl.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.resources
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.en.resources
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CopyComplete
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\OOP projekt\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\CountryView.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\PlayerControl.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\CountryView.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\PlayerControl.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.resources
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.en.resources
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CopyComplete
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\adgsad\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\WpfApp.exe
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\WpfApp.deps.json
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\WpfApp.runtimeconfig.json
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\Utilities.dll
+C:\Users\admin\Desktop\cooking\WpfApp\bin\Debug\net6.0-windows\Utilities.pdb
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\CountryView.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\PlayerControl.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp_MarkupCompile.lref
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\ChoosingWindow.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\CountryView.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\PlayerControl.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\PlayerWindow.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\SettingsWindow.baml
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.g.resources
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.resources
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.Properties.Resources.en.resources
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\en\WpfApp.resources.dll
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.csproj.CopyComplete
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\refint\WpfApp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.pdb
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\WpfApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\ref\WpfApp.dll
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\Loading.g.cs
+C:\Users\admin\Desktop\cooking\WpfApp\obj\Debug\net6.0-windows\Loading.baml

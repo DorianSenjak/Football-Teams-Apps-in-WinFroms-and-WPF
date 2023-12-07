@@ -1,0 +1,125 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lang="clr-namespace:WpfApp.Properties"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="675" Width="1200" Loaded="Window_Loaded" Closed="Window_Closed" Closing="Window_Closing">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="133*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top"
+                   x:Name="lblFavRep" Content="{x:Static lang:Resources.favRep}" Margin="-100,41,0,0"/>
+
+            <ComboBox x:Name="cbFavRep" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Top" SelectionChanged="cbFavRep_SelectionChanged" RenderTransformOrigin="0.429,0.054" Margin="252,41,0,0" Width="157" />
+
+            <Button HorizontalAlignment="Center" VerticalAlignment="Top" Content="{x:Static lang:Resources.stats}"
+                    x:Name="btnFavRepStats" Margin="107,88,0,0" Click="btnFavTeamStats"
+                    Background="AliceBlue" Height="22" Width="152" Grid.RowSpan="2">
+                <Button.Triggers>
+                    <EventTrigger RoutedEvent="Button.Click">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation
+                                    Storyboard.TargetProperty="Background.Color"
+                                    From="AliceBlue"
+                                    To="Red"
+                                    Duration="0:0:0.5"
+                                    AutoReverse="True"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+            <Label Grid.Column="1" x:Name="lblScore" VerticalAlignment="Top" HorizontalAlignment="Left" Width="92" Margin="60,10,0,0" Height="24"/>
+
+            <Label Grid.Row="0" Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top"
+                   x:Name="lblOponent" Content="{x:Static lang:Resources.oppnent}" Margin="0,43,0,0" RenderTransformOrigin="0.39,0.737"/>
+
+            <ComboBox x:Name="cbOpponents" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="cbOpponents_SelectionChanged" Margin="72,43,0,0" Width="168" />
+
+            <Button Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Top" Content="{x:Static lang:Resources.stats}"
+                    x:Name="btnOponentStats" Margin="0,88,299,0" Click="btnOpponentTeamStats_Click"
+                    Background="AliceBlue" Height="22" Width="152" Grid.RowSpan="2">
+                <Button.Triggers>
+                    <EventTrigger RoutedEvent="Button.Click">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <ColorAnimation
+                                    Storyboard.TargetProperty="Background.Color"
+                                    From="AliceBlue"
+                                    To="Red"
+                                    Duration="0:0:0.5"
+                                    AutoReverse="True"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Button.Triggers>
+            </Button>
+        </Grid>
+
+        <Grid Grid.ColumnSpan="2" Margin="0,130,0,0" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="69*"/>
+                <ColumnDefinition Width="31*"/>
+                <ColumnDefinition Width="924*"/>
+                <ColumnDefinition Width="75*"/>
+                <ColumnDefinition Width="100*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Column="1" x:Name="gridPitch" Margin="31,25,100,25" Grid.RowSpan="3" Grid.ColumnSpan="4">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Image  Source="/Images/Pitch.jpg" Stretch="Fill" Grid.ColumnSpan="9" Grid.RowSpan="5"/>
+
+
+            </Grid>
+            <Button Content="{x:Static lang:Resources.Settings}" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btnSettings_Click" Margin="0,-124,10,0" Grid.ColumnSpan="3" MaxHeight="50" MaxWidth="166" Width="166"/>
+        </Grid>
+    </Grid>
+</Window>
